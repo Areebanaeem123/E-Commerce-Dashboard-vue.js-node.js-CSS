@@ -50,7 +50,13 @@ Navigate to the Revenue or Inventory page from the dashboard
 
 
 # 📌 Future Improvements
-Role-based authentication (Admin, Staff)
+Role-based authentic
+ation (Admin, Staff)
+# Screenshots Of the UI
+![WhatsApp Image 2025-05-28 at 16 15 37_b160870c](https://github.com/user-attachments/assets/4b2a626b-b631-4dfe-a040-52c72720895e)
+
+![WhatsApp Image 2025-05-28 at 16 16 02_47fc7e8a](https://github.com/user-attachments/assets/73a6615e-d938-4433-b949-6a015e79dc4b)![WhatsApp Image 2025-05-28 at 16 16 23_88fa96d6](https://github.com/user-attachments/assets/3bfc1016-83f9-492c-a689-66f299ad34b2)
+
 
 CSV/Excel export for reports
 
