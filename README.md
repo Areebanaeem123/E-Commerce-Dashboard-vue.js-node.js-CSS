@@ -40,6 +40,7 @@ Backend: Node.js
 Design: Clean and responsive UI with intuitive navigation and blur effects
 
 # 🚀 Getting Started
+
 Clone the repository
 
 Install dependencies (npm install)
